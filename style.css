@@ -1,0 +1,124 @@
+.container{
+    background-color: black;
+    padding: 8px;
+}
+  
+.container h1{
+    color: white;
+    text-align: center;
+}
+.container p{
+    color: white;
+    text-align: center;
+    align-items: center;
+}
+.container1{
+    display: flex;
+    padding: 10px;
+}
+.container1-container1__img{
+    padding: 5px;
+    border: solid black 1px;
+    text-align: center;
+    width: 240px;
+    height: 400px;
+    margin-left: 80px;
+}
+.container1-container1__button{
+    padding: 5px;
+    color: white;
+    background-color: black;
+    border-radius: 10px;
+}
+.container1-container1__button:hover{
+    background-color: blue;
+}
+.container2-container2__img{
+    padding: 5px;
+    border: solid black 1px;
+    margin-left: 30px;
+    text-align: center;
+    width: 240px;
+    height: 400px;
+}
+.container2-container2__button{
+    padding: 5px;
+    color: white;
+    background-color: black;
+    border-radius: 10px;
+}
+.container2-container2__button:hover{
+    background-color: blue;
+}
+.container3-container3__img{
+    padding: 5px;
+    border: solid black 1px;
+    margin-left: 30px;
+    text-align: center;
+    width: 240px;
+    height: 400px;
+}
+.container3-container3__button{
+    padding: 5px;
+    color: white;
+    background-color: black;
+    border-radius: 10px;
+}
+.container3-container3__button:hover{
+    background-color: blue;
+}
+.container4-container4__img{
+    padding: 5px;
+    border: solid black 1px;
+    margin-left: 30px;
+    text-align: center;
+    width: 240px;
+    height: 400px;
+}
+.container4-container4__button{
+    padding: 5px;
+    color: white;
+    background-color: black;
+    border-radius: 10px;
+}
+.container4-container4__button:hover{
+    background-color: blue;
+}
+.footer-footer__f{
+    background-color: black;
+    padding: 10px;
+    text-align: center;
+}
+.footer-fotter__f1{
+    color: white;
+    padding: 5px;
+}
+.footer-fotter__f2{
+    color: white;
+    padding: 5px;
+    margin-left: 15px;
+
+}
+.footer-fotter__f3{
+    color: white;
+    padding: 5px;
+}
+.button{
+    padding:10px;
+    background-color: greenyellow;
+}
+.button:hover{
+    background-color: gold;
+}
+
+
+
+
+
+
+
+
+
+
+
+    
